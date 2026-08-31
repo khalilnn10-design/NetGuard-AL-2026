@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/khalilnn10-design/NetGuard-AI-2026/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v1.0.1-blue.svg)](https://github.com/khalilnn10-design/NetGuard-AI-2026/releases/latest)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)](#)
 [![Status](https://img.shields.io/badge/Project-Verified-success.svg)](#)
 NETGUARD AI 2026 is an open-source academic network management,
