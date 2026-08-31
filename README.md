@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/netguard-ai-2026-banner.png.PNG" alt="NETGUARD AI 2026 Banner" width="100%">
+  <img src="assets/netguard-ai-2026-banner.png" alt="NETGUARD AI 2026 Banner" width="100%">
 </p>
 
 # NETGUARD AI 2026
