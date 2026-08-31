@@ -20,16 +20,7 @@ incident-response, and final-submission verification system.
 ### AI Failure Prediction
 ### Smart Alert System
 
-<p align="center">
-  <img src="assets/smart-alert-system.png" alt="NETGUARD AI 2026 Smart Alert System" width="100%">
-</p>
 
-Smart alert engine that converts AI failure probability into an operational alert level, network status, and recommended maintenance action.
-<p align="center">
-  <img src="assets/ai-failure-prediction.png" alt="NETGUARD AI 2026 AI Failure Prediction" width="100%">
-</p>
-
-AI-assisted network failure analysis showing failure probability, predicted failure class, risk level, network status, and the recommended action.
 <p align="center">
   <img src="assets/step58-final-verification.png" alt="STEP 58 Final Submission Verification" width="100%">
 </p>
@@ -40,6 +31,16 @@ Final submission integrity verification showing the project closure, archive int
 </p>
 
 Final submission integrity closure showing the project closure, archive integrity, evidence-chain closure, and final verification status.
+<p align="center">
+  <img src="assets/smart-alert-system.png" alt="NETGUARD AI 2026 Smart Alert System" width="100%">
+</p>
+
+Smart alert engine that converts AI failure probability into an operational alert level, network status, and recommended maintenance action.
+<p align="center">
+  <img src="assets/ai-failure-prediction.png" alt="NETGUARD AI 2026 AI Failure Prediction" width="100%">
+</p>
+
+AI-assisted network failure analysis showing failure probability, predicted failure class, risk level, network status, and the recommended action.
 - Network station management
 - Data validation
 - Audit logging
