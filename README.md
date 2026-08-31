@@ -14,7 +14,20 @@ monitoring, integrity verification, auditing, backup, recovery,
 incident-response, and final-submission verification system.
 
 ## Main Features
+## System Screenshots
 
+### STEP 58 — Final Submission Verification
+
+<p align="center">
+  <img src="assets/step58-final-verification.png" alt="STEP 58 Final Submission Verification" width="100%">
+</p>
+
+Final submission integrity verification showing the project closure, archive integrity, evidence-chain validation, and final verification status.
+<p align="center">
+  <img src="assets/step58-final-verification1.png" alt="STEP 58 Final Submission Verification" width="100%">
+</p>
+
+Final submission integrity verification1 showing the project closure, archive integrity, evidence-chain validation, and final verification1 status.
 - Network station management
 - Data validation
 - Audit logging
