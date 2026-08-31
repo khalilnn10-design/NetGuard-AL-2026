@@ -18,7 +18,13 @@ incident-response, and final-submission verification system.
 
 ### STEP 58 — Final Submission Verification
 ### AI Failure Prediction
+### Smart Alert System
 
+<p align="center">
+  <img src="assets/smart-alert-system.png" alt="NETGUARD AI 2026 Smart Alert System" width="100%">
+</p>
+
+Smart alert engine that converts AI failure probability into an operational alert level, network status, and recommended maintenance action.
 <p align="center">
   <img src="assets/ai-failure-prediction.png" alt="NETGUARD AI 2026 AI Failure Prediction" width="100%">
 </p>
