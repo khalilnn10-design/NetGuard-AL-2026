@@ -1,5 +1,10 @@
 # NETGUARD AI 2026
-
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/khalilnn10-design/NetGuard-AI-2026)](https://github.com/khalilnn10-design/NetGuard-AI-2026/releases)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)](#)
+[![Status](https://img.shields.io/badge/Project-Verified-success.svg)](#)
 NETGUARD AI 2026 is an open-source academic network management,
 monitoring, integrity verification, auditing, backup, recovery,
 incident-response, and final-submission verification system.
