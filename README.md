@@ -41,6 +41,13 @@ Smart alert engine that converts AI failure probability into an operational aler
 </p>
 
 AI-assisted network failure analysis showing failure probability, predicted failure class, risk level, network status, and the recommended action.
+### Unified Intelligent Network Dashboard
+
+<p align="center">
+  <img src="assets/unified-network-dashboard.png" alt="NETGUARD AI 2026 Unified Intelligent Network Dashboard" width="100%">
+</p>
+
+AI-powered network monitoring dashboard showing failure probability, priority station, risk status, and the recommended maintenance decision.
 - Network station management
 - Data validation
 - Audit logging
