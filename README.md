@@ -14,6 +14,22 @@ monitoring, integrity verification, auditing, backup, recovery,
 incident-response, and final-submission verification system.
 
 ## Main Features
+- Network station management
+- Data validation
+- AI-based network failure prediction
+- Smart alert and risk classification
+- Unified intelligent network dashboard
+- Audit logging
+- Backup and recovery
+- Database integrity verification
+- Trusted baseline monitoring
+- Change detection
+- Operational network monitoring
+- Alert escalation
+- Incident response
+- Evidence chain verification
+- SHA-256 integrity verification
+- Final archive sealing and submission verification
 ## System Screenshots
 
 ### STEP 58 — Final Submission Verification
