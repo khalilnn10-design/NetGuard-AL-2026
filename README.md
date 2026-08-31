@@ -27,7 +27,7 @@ Final submission integrity verification showing the project closure, archive int
   <img src="assets/step57-project-closure.png" alt="STEP 58 Final Submission Verification" width="100%">
 </p>
 
-Final submission integrity verification showing the project closure, archive integrity, evidence-chain validation, and final verification status.
+Final submission integrity closure showing the project closure, archive integrity, evidence-chain closure, and final verification status.
 - Network station management
 - Data validation
 - Audit logging
