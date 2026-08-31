@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/netguard-ai-2026-banner.png.PNG" alt="NETGUARD AI 2026 Banner" width="100%">
+</p>
+
 # NETGUARD AI 2026
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
