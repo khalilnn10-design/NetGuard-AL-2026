@@ -48,6 +48,13 @@ AI-assisted network failure analysis showing failure probability, predicted fail
 </p>
 
 AI-powered network monitoring dashboard showing failure probability, priority station, risk status, and the recommended maintenance decision.
+### Unified Intelligent Network Dashboard
+
+<p align="center">
+  <img src="assets/unified-network-dashboard1.png" alt="NETGUARD AI 2026 Unified Intelligent Network Dashboard" width="100%">
+</p>
+
+AI-powered network monitoring dashboard showing failure probability, priority station, risk status, and the recommended maintenance decision.
 - Network station management
 - Data validation
 - Audit logging
