@@ -17,7 +17,13 @@ incident-response, and final-submission verification system.
 ## System Screenshots
 
 ### STEP 58 — Final Submission Verification
+### AI Failure Prediction
 
+<p align="center">
+  <img src="assets/ai-failure-prediction.png" alt="NETGUARD AI 2026 AI Failure Prediction" width="100%">
+</p>
+
+AI-assisted network failure analysis showing failure probability, predicted failure class, risk level, network status, and the recommended action.
 <p align="center">
   <img src="assets/step58-final-verification.png" alt="STEP 58 Final Submission Verification" width="100%">
 </p>
