@@ -31,11 +31,8 @@ incident-response, and final-submission verification system.
 - SHA-256 integrity verification
 - Final archive sealing and submission verification
 ## System Screenshots
-STEP 58 — Final Submission Verification
-STEP 57 — Final Project Closure
-AI Failure Prediction
-Smart Alert System
-Unified Intelligent Network Dashboard
+
+
 ### STEP 58 — Final Submission Verification
 ### AI Failure Prediction
 ### Smart Alert System
@@ -52,15 +49,16 @@ Final submission integrity verification showing the project closure, archive int
 
 Final submission integrity closure showing the project closure, archive integrity, evidence-chain closure, and final verification status.
 <p align="center">
-  <img src="assets/smart-alert-system.png" alt="NETGUARD AI 2026 Smart Alert System" width="100%">
-</p>
-
-Smart alert engine that converts AI failure probability into an operational alert level, network status, and recommended maintenance action.
-<p align="center">
   <img src="assets/ai-failure-prediction.png" alt="NETGUARD AI 2026 AI Failure Prediction" width="100%">
 </p>
 
 AI-assisted network failure analysis showing failure probability, predicted failure class, risk level, network status, and the recommended action.
+<p align="center">
+  <img src="assets/smart-alert-system.png" alt="NETGUARD AI 2026 Smart Alert System" width="100%">
+</p>
+
+Smart alert engine that converts AI failure probability into an operational alert level, network status, and recommended maintenance action.
+
 ### Unified Intelligent Network Dashboard
 
 <p align="center">
